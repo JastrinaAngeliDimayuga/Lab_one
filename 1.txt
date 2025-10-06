@@ -1,0 +1,7 @@
+Student No.: 1
+Full Name: Dimayuga, Jastrina Barrion.
+Program: BSIT
+Age: 19
+Gender: Female
+Birthday: 28-03-2006
+Contact No.: 09124216784
